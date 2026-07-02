@@ -1,5 +1,9 @@
 # Portfolio Gallery
 
+![Portfolio Gallery Screenshot](sc/fullscreen.jpg)
+
+**[Live Demo](https://kushalkumar-shaw.github.io/Portfolio-Gallery/)**
+
 A modern, responsive portfolio gallery built using pure HTML and CSS (no JavaScript). This project showcases a clean and premium design aesthetic with glassmorphism, responsive grid layouts, and interactive hover animations.
 
 ## Features
